@@ -1,0 +1,15 @@
+C:\Users\Kauã\Desktop\programas\git\projetolista\bin\Debug\net7.0\projetolista.exe
+C:\Users\Kauã\Desktop\programas\git\projetolista\bin\Debug\net7.0\projetolista.deps.json
+C:\Users\Kauã\Desktop\programas\git\projetolista\bin\Debug\net7.0\projetolista.runtimeconfig.json
+C:\Users\Kauã\Desktop\programas\git\projetolista\bin\Debug\net7.0\projetolista.dll
+C:\Users\Kauã\Desktop\programas\git\projetolista\bin\Debug\net7.0\projetolista.pdb
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.csproj.AssemblyReference.cache
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.AssemblyInfoInputs.cache
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.AssemblyInfo.cs
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.csproj.CoreCompileInputs.cache
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.dll
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\refint\projetolista.dll
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.pdb
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\projetolista.genruntimeconfig.cache
+C:\Users\Kauã\Desktop\programas\git\projetolista\obj\Debug\net7.0\ref\projetolista.dll
